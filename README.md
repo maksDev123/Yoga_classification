@@ -10,6 +10,8 @@ Human pose estimation is a well-known problem in computer vision to locate joint
 
 In this competition, we formulate the pose estimation as a classification task and you will have to classify different yoga asanas into different classes. You will be responsible for creating algorithms capable of performing a precise classification by aiming for higher Mean F1 scores. The dataset has pictures of different yoga poses and the class to which it belongs. There are a total of 6 classes based on the posture of the person performing the asana. Evaluation of your algorithms would be based on the Mean F1 score.
 
+# Results
+Approach which I used here gave 0.9 score on new data. 
 
 # Link to competition:
 https://www.kaggle.com/competitions/ukraine-ml-bootcamp-2023
